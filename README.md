@@ -89,3 +89,4 @@ Don't forget to prompt it to assume a different name.
 # Future potential
 At the time of writing, this is a proof of concept. Server and agent lifecycle questions remain.
 The scope of this project includes answering these questions with remote mode and sessions.
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

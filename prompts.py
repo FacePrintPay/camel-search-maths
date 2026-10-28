@@ -21,3 +21,5 @@ Don't try to guess any numbers or facts, only use reliable sources. If you are u
 
 def get_user_message():
     return "[automated] continue collaborating with other agents. make sure to mention agents you intend to communicate with"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=prompts.py
